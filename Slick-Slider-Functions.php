@@ -1,4 +1,5 @@
 // function that runs when shortcode is called
+// Slick Slider Functions Code to Wordpress Theme Files Code functions.php
 function wpb_demo_shortcode() { 
   ?>
 <style>
